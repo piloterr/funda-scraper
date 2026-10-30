@@ -379,11 +379,11 @@ Example response from the API reference, abridged — real values depend on the 
       "url": "https://www.funda.nl/detail/koop/amsterdam/appartement-hillegomstraat-57-1/44654106/",
       "city": "Amsterdam",
       "agent": {
-        "id": 24575,
-        "url": "https://www.funda.nl/makelaar/24575-aw-sabel-makelaardij-og/",
-        "logo": "https://cloud.funda.nl/valentina_media/141/983/997.jpg",
-        "name": "A.W. Sabel Makelaardij o.g.",
-        "association": "NVM",
+        "id": 0,
+        "url": "example",
+        "logo": "example",
+        "name": "example",
+        "association": "example",
         "contact_name": null,
         "contact_image": null
       },
