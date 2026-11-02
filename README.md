@@ -69,7 +69,7 @@ response = requests.get(
     params={
         "query": "https://www.funda.nl/detail/koop/amsterdam/appartement-hillegomstraat-57-1/44654106/",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -284,7 +284,7 @@ response = requests.get(
     params={
         "query": "amsterdam",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
